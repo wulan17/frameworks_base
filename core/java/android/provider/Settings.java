@@ -12940,6 +12940,12 @@ public final class Settings {
          * @hide
          */
         public static final String VISUALIZER_CENTER_MIRRORED = "visualizer_center_mirrored";
+        
+        /**
+         * Pulse vertical mirror
+         * @hide
+         */
+        public static final String PULSE_VERTICAL_MIRROR = "pulse_vertical_mirror";    
 
         /**
          * Whether to show or hide the arrow for back gesture
